@@ -19,7 +19,7 @@ IBM Corp          IBM       NYSE       Technology
 BASF SE           BASFY     OTC        Materials
 ```
 
-##  How It Works - Simple Explanation
+##  How It Works
 
 ### 1. **Name Cleaning** 
 First, we clean up company names to make matching easier:
