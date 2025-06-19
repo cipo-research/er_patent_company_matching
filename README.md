@@ -165,24 +165,5 @@ The tool creates a CSV file with these columns:
    - Review matches between 0.85-0.95
    - Check sector mismatches
 
-##  Tips for Best Results
 
-1. **High patent count companies match better** - they're usually large, well-known companies
-2. **Pharmaceutical companies match very well** - consistent naming conventions
-3. **Check alternative_matches > 0** - means multiple possible matches found
-4. **Sector mismatch + high score** = verify manually, might be a conglomerate
-
-##  Performance Stats
-
-- **Top 1000 patent applicants**: ~5 minutes
-- **Full dataset (556K applicants)**: 15-30 hours
-- **Success rate**: ~80% of Fortune 500 companies matched correctly
-
-
-##  Quality Metrics
-
-The system provides confidence scores for each match:
-- **confidence_mean**: Average confidence across similar matches
-- **confidence_lower/upper**: Statistical confidence interval
-- **alternative_matches**: Number of other potential matches
 
