@@ -1,0 +1,24 @@
+pandas
+numpy
+spacy
+scikit-learn
+yfinance       # or whichever stock-API you choose
+pytest
+flake8
+black          # optional, for formatting
+python-dotenv
+psycopg2-binary
+cleanco
+rapidfuzz
+unidecode
+openpyxl        # read the Excel ticker list
+sentence-transformers  # ← optional, only needed for --method emb
+yfinance
+pandas>=1.3.0
+numpy>=1.21.0
+jellyfish>=0.9.0
+scipy>=1.7.0
+openpyxl>=3.0.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+

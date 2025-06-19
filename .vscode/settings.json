@@ -1,0 +1,10 @@
+{
+  "python.pythonPath": "${workspaceFolder}/.venv/bin/python",
+  "python.linting.enabled": true,
+  "python.linting.flake8Enabled": true,
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/.venv": true,
+    "**/__pycache__": true
+  }
+}

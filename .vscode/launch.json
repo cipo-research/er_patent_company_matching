@@ -1,0 +1,7 @@
+{
+  "name": "Run Full Pipeline",
+  "type": "debugpy",
+  "request": "launch",
+  "module": "src.build_patstat_tables",
+  "console": "integratedTerminal"
+}

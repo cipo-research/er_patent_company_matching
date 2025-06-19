@@ -1,0 +1,6 @@
+{
+  "label": "Run Full Pipeline",
+  "type": "shell",
+  "command": ".venv\\Scripts\\python -m src.build_patstat_tables",
+  "presentation": { "reveal": "always" }
+}
