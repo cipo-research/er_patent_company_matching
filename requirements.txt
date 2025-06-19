@@ -1,24 +1,39 @@
-pandas
-numpy
-spacy
-scikit-learn
-yfinance       # or whichever stock-API you choose
-pytest
-flake8
-black          # optional, for formatting
-python-dotenv
-psycopg2-binary
-cleanco
-rapidfuzz
-unidecode
-openpyxl        # read the Excel ticker list
-sentence-transformers  # ← optional, only needed for --method emb
-yfinance
-pandas>=1.3.0
-numpy>=1.21.0
-jellyfish>=0.9.0
-scipy>=1.7.0
-openpyxl>=3.0.0
-matplotlib>=3.4.0
-seaborn>=0.11.0
+# ─── Core data wrangling & math ────────────────────────────────────────────────
+pandas>=1.3.0          # DataFrame power-house
+numpy>=1.21.0          # Fast numerical arrays / vectors
+
+# ─── Machine-learning & NLP ────────────────────────────────────────────────────
+scikit-learn           # Classic ML algorithms & utilities
+spacy                  # Industrial-strength NLP pipeline
+
+# ─── String similarity & cleaning ─────────────────────────────────────────────
+rapidfuzz              # Blazing-fast fuzzy matching
+jellyfish>=0.9.0       # Extra distance metrics (Jaro–Winkler, Soundex…)
+cleanco                # Strip “Inc.” / “Ltd.” from company names
+unidecode              # ASCII-fold Unicode text (café → cafe)
+
+# ─── Scientific & statistical helpers ─────────────────────────────────────────
+scipy>=1.7.0           # Stats, clustering, sparse matrices
+
+# ─── I/O, databases & external data ───────────────────────────────────────────
+openpyxl>=3.0.0        # Read/write Excel (.xlsx)
+psycopg2-binary        # PostgreSQL driver
+yfinance               # Pull market data from Yahoo Finance
+
+# ─── Configuration ────────────────────────────────────────────────────────────
+python-dotenv          # Load secrets from .env
+
+# ─── Testing & code quality ───────────────────────────────────────────────────
+pytest                 # Unit-testing framework
+flake8                 # Linter for PEP-8 / style checks
+black                  # Opinionated code formatter
+
+# ─── Visualisation (optional) ─────────────────────────────────────────────────
+matplotlib>=3.4.0      # Base plotting library
+seaborn>=0.11.0        # Prettier statistical charts on top of matplotlib
+
+# ─── Embedding-based matching (optional) ──────────────────────────────────────
+sentence-transformers  # Needed only for --method emb
+
+
 

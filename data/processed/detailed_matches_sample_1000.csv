@@ -1,0 +1,325 @@
+applicant_name_patstat,company_name_stock,ticker_stock,exchange,country,category,patent_sector,stock_sector,sector_match,parent_match,match_type,match_score,base_score,sequence_similarity,jaro_similarity,levenshtein_similarity,token_similarity,total_patents,confidence_mean,confidence_lower,confidence_upper,confidence_std,alternative_matches
+BASF SE,BASF SE,BASFY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,399,1.0,1.0,1.0,0.0,9
+Novartis AG,Novartis AG,NVS,NYQ,USA,Drug Manufacturers - Major,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,363,1.0,1.0,1.0,0.0,9
+Siemens Aktiengesellschaft,Siemens Aktiengesellschaft,SIEGY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,348,1.0,1.0,1.0,0.0,10
+Colgate-Palmolive Company,Colgate-Palmolive Company,CL,NYQ,USA,Personal Products,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,321,0.9909683794466404,0.9805765430495892,1.0,0.015468435542687646,10
+Dow Global Technologies LLC,DOWA HOLDINGS INC.,DMI.BE,BER,Germany,,other,other,False,True,exact,1.0,1.0195238095238095,0.8571428571428571,0.9416666666666667,0.75,0.0,282,1.0,1.0,1.0,0.0,3
+LG Electronics Inc.,LG Electronics Inc.,066570.KS,KSC,South Korea,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,213,1.0,1.0,1.0,0.0,3
+NIPPON STEEL & SUMITOMO METAL CORPORATION,Nippon Steel & Sumitomo Metal Corporation,NISTF,PNK,USA,,materials,materials,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,206,1.0,1.0,1.0,0.0,2
+"Toray Industries, Inc.","Toray Industries, Inc.",TRYIY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,195,1.0,1.0,1.0,0.0,2
+Sony Corporation,Sony Corporation,SNE,NYQ,USA,Electronic Equipment,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,193,1.0,1.0,1.0,0.0,12
+SCHLUMBERGER CANADA LIMITED,Schlumberger Limited,SLB,NYQ,USA,Oil & Gas Equipment & Services,other,industrial,False,True,fuzzy,0.9565195246179966,0.9565195246179966,0.7741935483870968,0.9263157894736842,0.631578947368421,0.5,182,0.9565195246179967,0.9565195246179966,0.9565195246179968,1.1644117316690923e-16,10
+Sanofi,Sanofi,SAN.PA,PAR,France,Drug Manufacturers - Major,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,169,1.0,1.0,1.0,0.0,13
+"Mitsubishi Heavy Industries, Ltd.","Mitsubishi Heavy Industries, Ltd.",MHVYF,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,164,1.0,1.0,1.0,0.0,1
+Unilever PLC,Unilever PLC,ULVR.L,LSE,United Kingdom,Personal Products,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,150,1.0,1.0,1.0,0.0,6
+"NTT DoCoMo, Inc.","NTT DOCOMO, INC.",DCM,NYQ,USA,Diversified Communication Services,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,136,1.0,1.0,1.0,0.0,8
+General Electric Company,General Electric Company,GE,NYQ,USA,Diversified Machinery,utilities,industrial,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,135,1.0,1.0,1.0,0.0,13
+"Nissan Motor Co., Ltd.","Nissan Motor Co., Ltd.",NSANY,PNK,USA,,automotive,automotive,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,116,1.0,1.0,1.0,0.0,8
+JFE Steel Corporation,JSW Steel Limited,JSWSTEEL.NS,NSI,India,,materials,materials,True,False,fuzzy,0.8961904761904762,0.8961904761904762,0.7777777777777778,0.8238095238095238,0.7777777777777778,0.3333333333333333,108,0.8961904761904762,0.8961904761904762,0.8961904761904762,0.0,1
+"Sumitomo Chemical Company, Limited",SUMITOMO CHEM.,SMM.MU,MUN,Germany,,materials,other,False,True,exact,1.0,1.0307843137254902,0.8666666666666667,0.9529411764705882,0.7647058823529411,0.3333333333333333,103,1.0,1.0,1.0,0.0,5
+"Honda Motor Co., Ltd.","Honda Motor Co., Ltd.",HMC,NYQ,USA,Auto Manufacturers - Major,automotive,automotive,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,103,1.0,1.0,1.0,0.0,8
+"Sumitomo Electric Industries, Ltd.","Sumitomo Electric Industries, Ltd.",SMTOY,PNK,USA,,utilities,utilities,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,101,1.0,1.0,1.0,0.0,2
+E. I. du Pont de Nemours and Company,E. I. du Pont de Nemours and Company,DD,NYQ,USA,Agricultural Chemicals,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,100,1.0,1.0,1.0,0.0,9
+Nippon Steel & Sumitomo Metal Corporation,Nippon Steel & Sumitomo Metal Corporation,NISTF,PNK,USA,,materials,materials,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,94,1.0,1.0,1.0,0.0,2
+Amgen Inc.,Amgen Inc.,AMGN,NMS,USA,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,90,1.0,1.0,1.0,0.0,8
+ALSTOM Technology Ltd,Alstom SA,ALO.PA,PAR,France,Diversified Machinery,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,90,1.0,1.0,1.0,0.0,7
+Panasonic Corporation,PANASONIC CORP.,MAT1.DU,DUS,Germany,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,89,1.0,1.0,1.0,0.0,8
+NEC Corporation,NEC CORP.,NEC1.BE,BER,Germany,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,84,1.0,1.0,1.0,0.0,5
+"Ricoh Company, Ltd.","Ricoh Company, Ltd.",RICO.L,LSE,United Kingdom,Business Equipment,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,83,1.0,1.0,1.0,0.0,7
+"Genentech, Inc.",Genetic Technologies Limited,GENE,NCM,USA,,technology,technology,True,False,fuzzy,0.8952380952380953,0.8952380952380953,0.75,0.9047619047619048,0.6666666666666667,0.0,81,0.8876190476190476,0.8633718376740246,0.9118662575640707,0.015238095238095273,3
+Glaxo Group Limited,GLAXO4.BO,GLAXO4.BO,,,,other,other,False,True,fuzzy,0.9112698412698413,0.9112698412698413,0.7142857142857143,0.9111111111111111,0.5555555555555556,0.0,80,0.9112698412698413,0.9112698412698413,0.9112698412698413,0.0,1
+Mitsubishi Electric Corporation,Mitsubishi Electric Corporation,MIELY,PNK,USA,,utilities,utilities,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,76,0.9860988582567531,0.9727831541760337,0.9994145623374726,0.017323087861081297,8
+"Samsung Electronics Co., Ltd.","Samsung Electronics Co., Ltd.",SSNLF,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,75,1.0,1.0,1.0,0.0,10
+THYSSENKRUPP UHDE GMBH,ThyssenKrupp AG,TKA.DE,GER,Germany,Steel & Iron,other,materials,False,True,fuzzy,0.9986815415821501,0.9986815415821501,0.8275862068965517,0.9411764705882353,0.7058823529411764,0.5,74,0.9986815415821501,0.9986815415821501,0.9986815415821501,0.0,6
+OUTOTEC OYJ,Outotec Oyj,OUKPY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,73,1.0,1.0,1.0,0.0,4
+"Cargill, Incorporated",Carillion plc,CLLN.L,LSE,United Kingdom,General Contractors,automotive,automotive,True,False,fuzzy,0.8666666666666668,0.8666666666666668,0.75,0.888888888888889,0.5555555555555556,0.0,73,0.8666666666666668,0.8666666666666668,0.8666666666666668,0.0,3
+GLAXOSMITHKLINE LLC,GlaxoSmithKline plc,GSK,NYQ,USA,Drug Manufacturers - Major,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,71,1.0,1.0,1.0,0.0,8
+Bayer CropScience AG,BAYER CROPSCIENCE LTD.,BAYERCROP.BO,BSE,India,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,68,1.0,1.0,1.0,0.0,1
+ABB Technology AG,ABB Ltd,ABB,NYQ,USA,Diversified Machinery,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,67,0.9975213675213676,0.9921208912769027,1.0,0.008936836494739753,12
+Pfizer Inc.,Pfizer Inc.,PFE,NYQ,USA,Drug Manufacturers - Major,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,66,1.0,1.0,1.0,0.0,12
+"Becton, Dickinson and Company","Becton, Dickinson and Company",BDX,NYQ,USA,Medical Instruments & Supplies,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,66,0.994375,0.976473739532776,1.0,0.011249999999999982,3
+Abbott Laboratories,Abbott Laboratories,ABT,NYQ,USA,Medical Appliances & Equipment,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,65,1.0,1.0,1.0,0.0,12
+Shell Oil Company,Shale Oil International Inc.,SHLE,PNK,USA,,energy,energy,True,False,fuzzy,0.9296296296296296,0.9296296296296296,0.7777777777777778,0.9074074074074073,0.7777777777777778,0.3333333333333333,64,0.9296296296296296,0.9296296296296296,0.9296296296296296,0.0,0
+Novozymes A/S,Novozymes A/S,NVZMY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,63,1.0,1.0,1.0,0.0,6
+"DAIICHI SANKYO COMPANY, LIMITED","Daiichi Sankyo Company, Limited",DSNKY,PNK,USA,,technology,technology,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,62,1.0,1.0,1.0,0.0,5
+Komatsu Ltd.,Komatsu Ltd.,KMTUY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,61,1.0,1.0,1.0,0.0,5
+Takeda Pharmaceutical Company Limited,Takeda Pharmaceutical Company Limited,TKPYY,PNK,USA,,healthcare,healthcare,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,60,1.0,1.0,1.0,0.0,2
+Magna International Inc.,Magna International Inc.,MGA,NYQ,USA,Auto Parts Wholesale,other,automotive,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,59,1.0,1.0,1.0,0.0,7
+Thales,Thales SA,HONV.PA,PAR,France,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,57,1.0,1.0,1.0,0.0,0
+Schlumberger Technology Corporation,Schlumberger Limited,SLB,NYQ,USA,Oil & Gas Equipment & Services,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,56,0.9927083333333333,0.9867562695766108,0.9986603970900558,0.011169982923823936,15
+ZTE Corporation,ZTE Corporation,ZTCOY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,55,1.0,1.0,1.0,0.0,4
+Linde Aktiengesellschaft,Linde Aktiengesellschaft,LNEGY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,54,1.0,1.0,1.0,0.0,8
+Compagnie Generale des Etablissements Michelin,Compagnie Générale des Etablissements Michelin,ML.PA,PAR,France,Rubber & Plastics,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,54,1.0,1.0,1.0,0.0,8
+Nippon Telegraph and Telephone Corporation,Nippon Telegraph and Telephone Corporation,NTT,NYQ,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,54,1.0,1.0,1.0,0.0,4
+Sharp Kabushiki Kaisha,Sharp Corporation,SRP.F,FRA,France,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,52,1.0,1.0,1.0,0.0,9
+Rockwool International A/S,Rockwool International A/S,ROCK-A.CO,CPH,Denmark,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,52,1.0,1.0,1.0,0.0,4
+Eli Lilly and Company,Eli Lilly and Company,LLY,NYQ,USA,Drug Manufacturers - Major,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,49,0.9968281718281718,0.9942783954330137,0.99937794822333,0.004416093362136549,13
+UPM-Kymmene Corporation,UPM KYMMENE CORP.,RPL.BE,BER,Germany,Paper & Paper Products,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,49,1.0,1.0,1.0,0.0,8
+BlackBerry Limited,BlackBerry Limited,BBRY,NMS,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,49,1.0,1.0,1.0,0.0,9
+"RAKUTEN, INC.","Rakuten, Inc.",RAK.F,FRA,France,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,48,1.0,1.0,1.0,0.0,4
+E.I. du Pont de Nemours and Company,E. I. du Pont de Nemours and Company,DD,NYQ,USA,Agricultural Chemicals,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,48,1.0,1.0,1.0,0.0,9
+Ranbaxy Laboratories Limited,Ranbaxy Laboratories Ltd.,RANBAXY.NS,NSI,India,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,48,0.9796464646464647,0.9422491590349459,1.0,0.02350223823064839,3
+ACTELION PHARMACEUTICALS LTD,"Alexion Pharmaceuticals, Inc.",AXP.DE,GER,Germany,,healthcare,healthcare,True,False,fuzzy,0.8671644871471421,0.8671644871471421,0.8936170212765957,0.9483201581027668,0.875,0.3333333333333333,45,0.8623549090033794,0.8568258220803361,0.8678839959264227,0.0052686288828453776,5
+Kemira Oyj,KEMIRA OY,KEM.BE,BER,Germany,,other,other,False,True,exact,1.0,1.1009473684210527,0.9473684210526315,0.98,0.9,0.3333333333333333,44,1.0,1.0,1.0,0.0,4
+OMYA INTERNATIONAL AG,OM Holdings Limited,OMH.AX,ASX,Australia,Industrial Metals & Minerals,other,other,False,True,fuzzy,0.8633333333333333,0.8633333333333333,0.6666666666666666,0.8666666666666667,0.5,0.0,44,0.8633333333333333,0.8633333333333333,0.8633333333333333,0.0,1
+GE HEALTHCARE LIMITED,"GE Capital Global Holdings, LLC",GEB,NYQ,USA,,healthcare,other,False,False,fuzzy,0.8575193107546049,0.8575193107546049,0.7450980392156863,0.9281144781144781,0.7037037037037037,1.0,44,0.8575193107546047,0.8575193107546044,0.8575193107546051,1.3597399555105182e-16,2
+Astellas Pharma Inc.,Astellas Pharma Inc.,ALPMY,PNK,USA,,healthcare,healthcare,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,43,1.0,1.0,1.0,0.0,4
+KONINKLIJKE PHILIPS N.V.,Koninklijke Philips N.V.,PHG,NYQ,USA,Electronic Equipment,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,43,1.0,1.0,1.0,0.0,10
+IHI Corporation,IHI CORP.,IWJ.DU,DUS,Germany,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,43,1.0,1.0,1.0,0.0,4
+Syngenta Limited,Syngenta AG,SYT,NYQ,USA,Agricultural Chemicals,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,42,1.0,1.0,1.0,0.0,7
+Vertex Pharmaceuticals Incorporated,Vertex Pharmaceuticals Incorporated,VRTX,NMS,USA,Biotechnology,healthcare,technology,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,41,0.9932782051282052,0.9746155106582667,1.0,0.01503039026414282,4
+Stora Enso Oyj,Stora Enso Oyj,SEOAY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,40,1.0,1.0,1.0,0.0,11
+E I du Pont de Nemours and Company,E. I. du Pont de Nemours and Company,DD,NYQ,USA,Agricultural Chemicals,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,40,1.0,1.0,1.0,0.0,9
+ARKEMA INC.,ARKEMA,AKEN.MX,MEX,Mexico,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,39,1.0,1.0,1.0,0.0,0
+"Smith & Nephew, Inc.",Smith & Nephew plc,SN.L,LSE,United Kingdom,Medical Appliances & Equipment,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,39,1.0,1.0,1.0,0.0,4
+HUNTSMAN INTERNATIONAL LLC,Huntsman Corporation,HUN,NYQ,USA,Chemicals - Major Diversified,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,39,1.0,1.0,1.0,0.0,1
+Lafarge,LafargeHolcim Ltd,HCMLY,PNK,USA,,other,other,False,True,fuzzy,0.9007692307692309,0.9007692307692309,0.7,0.9076923076923077,0.5384615384615384,0.0,39,0.9007692307692309,0.9007692307692309,0.9007692307692309,0.0,6
+Henkel AG & Co. KGaA,Henkel AG & Co. KGaA,HENOY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,37,1.0,1.0,1.0,0.0,13
+Archer Daniels Midland Company,Archer-Daniels-Midland Company,ADM,NYQ,USA,Farm Products,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,37,1.0,1.0,1.0,0.0,8
+Koninklijke Philips N.V.,Koninklijke Philips N.V.,PHG,NYQ,USA,Electronic Equipment,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,36,1.0,1.0,1.0,0.0,10
+Bristol-Myers Squibb Company,Bristol-Myers Squibb Company,BMY,NYQ,USA,Drug Manufacturers - Major,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,36,0.9988374704491726,0.9962076458987388,1.0,0.0036762412278671247,9
+TOTAL SA,Totally plc,TLY.L,LSE,United Kingdom,Healthcare Information Services,other,healthcare,False,True,exact,1.0,1.0033333333333334,0.8333333333333334,0.9428571428571428,0.7142857142857143,0.0,36,1.0,1.0,1.0,0.0,2
+"RICOH COMPANY, LIMITED","Ricoh Company, Ltd.",RICO.L,LSE,United Kingdom,Business Equipment,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,36,1.0,1.0,1.0,0.0,7
+Nippon Steel Corporation,Nico Steel Holdings Limited,5GF.SI,SES,Singapore,Metal Fabrication,materials,materials,True,False,fuzzy,0.9399393939393941,0.9399393939393941,0.8181818181818182,0.9066666666666666,0.75,0.3333333333333333,36,0.9399393939393941,0.9399393939393941,0.9399393939393941,0.0,0
+EVONIK INDUSTRIES AG,Evonik Industries AG,EVK.DE,GER,Germany,Specialty Chemicals,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,36,1.0,1.0,1.0,0.0,4
+BAE Systems PLC,BAE Systems plc,BAESY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,36,1.0,1.0,1.0,0.0,4
+Fisher & Paykel Healthcare Limited,Fisher & Paykel Healthcare Corporation Limited,FPH.NZ,NZE,New Zealand,Medical Appliances & Equipment,healthcare,healthcare,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,35,1.0,1.0,1.0,0.0,3
+"ALMIRALL, S.A.","Almirall, S.A.",ALM.MC,MCE,Spain,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,35,1.0,1.0,1.0,0.0,4
+Cambridge Enterprise Limited,CAMBRIDGE TECHNOLOGY ENTERPRISE,CTE-EQ.NS,NSI,India,,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,34,1.0,1.0,1.0,0.0,0
+"Allergan, Inc.",Allergan plc,AGN,NYQ,USA,Drugs - Generic,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,34,1.0,1.0,1.0,0.0,4
+Cipla Limited,Cipla Limited,CIPLA.NS,NSI,India,Drug Manufacturers - Major,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,34,1.0,1.0,1.0,0.0,2
+AMS RESEARCH CORPORATION,ams AG,AMS.SW,EBS,Switzerland,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,33,1.0,1.0,1.0,0.0,4
+MONSANTO TECHNOLOGY LLC,Monsanto Company,MON,NYQ,USA,Agricultural Chemicals,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,32,0.9953333333333333,0.9823765895090769,1.0,0.01043498389499901,4
+ENI S.P.A.,Eni S.p.A.,E,NYQ,USA,Major Integrated Oil & Gas,other,energy,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,32,1.0,1.0,1.0,0.0,15
+NEC CORPORATION,NEC CORP.,NEC1.BE,BER,Germany,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,30,1.0,1.0,1.0,0.0,5
+SGL CARBON SE,SGL Carbon SE,SGL.DE,GER,Germany,Chemicals - Major Diversified,automotive,materials,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,30,1.0,1.0,1.0,0.0,4
+JFE STEEL CORPORATION,JSW Steel Limited,JSWSTEEL.NS,NSI,India,,materials,materials,True,False,fuzzy,0.8961904761904762,0.8961904761904762,0.7777777777777778,0.8238095238095238,0.7777777777777778,0.3333333333333333,29,0.8961904761904762,0.8961904761904762,0.8961904761904762,0.0,1
+GlaxoSmithKline LLC,GlaxoSmithKline plc,GSK,NYQ,USA,Drug Manufacturers - Major,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,29,1.0,1.0,1.0,0.0,8
+ABB RESEARCH LTD,ABB Ltd,ABB,NYQ,USA,Diversified Machinery,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,29,0.9975213675213676,0.9921208912769027,1.0,0.008936836494739753,12
+"Sumitomo Metal Mining Co., Ltd.","Sumitomo Metal Mining Co., Ltd.",S19.F,FRA,France,,materials,materials,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,29,1.0,1.0,1.0,0.0,2
+The General Hospital Corporation,"The ONE Group Hospitality, Inc.",STKS,NCM,USA,Restaurants,healthcare,healthcare,True,False,fuzzy,0.8641835357624832,0.8641835357624832,0.7692307692307693,0.8412280701754387,0.6,0.2,29,0.8641835357624832,0.8641835357624832,0.8641835357624832,0.0,0
+Fujitsu Limited,Fujitsu Limited,FJTSY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,29,1.0,1.0,1.0,0.0,6
+ARRAY BIOPHARMA INC.,"ARCA biopharma, Inc.",HQ1N.F,FRA,France,,healthcare,healthcare,True,False,exact,1.0,1.010112753147236,0.896551724137931,0.9453968253968253,0.8666666666666667,0.3333333333333333,28,1.0,1.0,1.0,0.0,3
+AstraZeneca AB,AstraZeneca PLC,AZN,NYQ,USA,Drug Manufacturers - Major,other,healthcare,False,True,exact,1.0,1.042,0.88,0.9571428571428571,0.7857142857142857,0.5,28,1.0,1.0,1.0,0.0,8
+Omya International AG,OM Holdings Limited,OMH.AX,ASX,Australia,Industrial Metals & Minerals,other,other,False,True,fuzzy,0.8633333333333333,0.8633333333333333,0.6666666666666666,0.8666666666666667,0.5,0.0,28,0.8633333333333333,0.8633333333333333,0.8633333333333333,0.0,1
+PRYSMIAN S.P.A.,Prysmian S.p.A.,PRY.MI,MIL,Italy,Communication Equipment,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,28,1.0,1.0,1.0,0.0,4
+Novo Nordisk A/S,Novo Nordisk A/S,NVO,NYQ,USA,Drug Manufacturers - Other,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,27,1.0,1.0,1.0,0.0,9
+Wockhardt Limited,Wockhardt Limited,WOCKPHARMA.NS,NSI,India,Drug Manufacturers - Major,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,27,0.9876811594202898,0.9346774663733083,1.0,0.02133685777439922,2
+"Mitsubishi Gas Chemical Company, Inc.","Mitsubishi Gas Chemical Company, Inc.",MBGCF,PNK,USA,,energy,energy,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,27,1.0,1.0,1.0,0.0,2
+Research Triangle Institute,TIANGE,1980.HK,HKG,Hong Kong,,other,other,False,False,fuzzy,0.8628571428571429,0.8628571428571429,0.8571428571428571,0.9249999999999999,0.75,0.0,27,0.8628571428571429,0.8628571428571429,0.8628571428571429,0.0,0
+"Oncotherapy Science, Inc.","OncoTherapy Science, Inc.",30O.F,FRA,France,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,27,1.0,1.0,1.0,0.0,0
+"Nippon Soda Co., Ltd.",NIPPON SODA CO.LTD,N76.DU,DUS,Germany,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,27,1.0,1.0,1.0,0.0,2
+Lupin Limited,Lupin Limited,LUPIN.NS,NSI,India,Drugs - Generic,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,27,1.0,1.0,1.0,0.0,2
+Albemarle Corporation,Albemarle Corporation,ALB,NYQ,USA,Specialty Chemicals,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,27,1.0,1.0,1.0,0.0,1
+BURCON NUTRASCIENCE (MB) CORP.,Burcon Nutrascience Corporation,BUR,NGM,USA,,other,other,False,True,exact,1.0,1.0160790835181077,0.926829268292683,0.9727272727272728,0.8636363636363636,0.6666666666666666,26,1.0,1.0,1.0,0.0,5
+"Shionogi & Co., Ltd.","Shionogi & Co., Ltd.",SH0.F,FRA,France,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,26,1.0,1.0,1.0,0.0,2
+Johnson Matthey Public Limited Company,Johnson Matthey Plc,JMAT.L,LSE,United Kingdom,Specialty Chemicals,other,materials,False,True,fuzzy,0.9430917280917281,0.9430917280917281,0.8108108108108109,0.9363636363636364,0.6818181818181819,0.6666666666666666,26,0.9430917280917281,0.9430917280917281,0.9430917280917281,0.0,5
+"ALNYLAM PHARMACEUTICALS, INC.","Alnylam Pharmaceuticals, Inc.",ALNY,NMS,USA,Biotechnology,healthcare,technology,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,26,0.9894925925925926,0.9442828674290816,1.0,0.018199363485455207,2
+"SCHNEIDER ELECTRIC USA, INC.",SCHNEIDER ELECTRIC,SCHN.TI,TLO,Italy,,utilities,utilities,True,True,exact,1.0,1.0984848484848484,0.9,0.9636363636363636,0.8181818181818181,0.6666666666666666,25,1.0,1.0,1.0,0.0,0
+INTELLIGENT ENERGY LIMITED,Intelligent Energy Holdings Plc,ITNRF,PNK,USA,,energy,energy,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,25,1.0,1.0,1.0,0.0,2
+HERAKLES,Heracles SA,ALHER.PA,PAR,France,,other,other,False,False,fuzzy,0.905,0.905,0.875,0.95,0.875,0.0,25,0.905,0.905,0.905,0.0,0
+Medical Research Council,"Medical Connections Holdings, Inc.",MCTH,PNK,USA,Staffing & Outsourcing Services,healthcare,healthcare,True,False,fuzzy,0.9067946336429308,0.9067946336429308,0.7647058823529411,0.9101754385964912,0.6842105263157895,0.0,25,0.9067946336429308,0.9067946336429308,0.9067946336429308,0.0,0
+Bridgestone Corporation,BRIDGESTONE CORP.,BGT.DU,DUS,Germany,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,25,1.0,1.0,1.0,0.0,5
+"Kuraray Co., Ltd.","Kuraray Co., Ltd.",KUY.F,FRA,France,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,25,1.0,1.0,1.0,0.0,2
+Smith & Nephew PLC,Smith & Nephew plc,SN.L,LSE,United Kingdom,Medical Appliances & Equipment,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,25,1.0,1.0,1.0,0.0,4
+DH TECHNOLOGIES DEVELOPMENT PTE. LTD.,Co-Tech Development Corporation,8358.TWO,TWO,Taiwan,,other,technology,False,True,exact,1.0,1.0334285714285714,0.88,0.9357142857142856,0.7857142857142857,0.0,24,1.0,1.0,1.0,0.0,0
+Japan Tobacco Inc.,Japan Tobacco Inc.,JAPAF,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,24,1.0,1.0,1.0,0.0,6
+Stepan Company,Stepan Company,SCL,NYQ,USA,Cleaning Products,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,24,1.0,1.0,1.0,0.0,0
+"SUMITOMO METAL MINING CO., LTD.","Sumitomo Metal Mining Co., Ltd.",S19.F,FRA,France,,materials,materials,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,24,1.0,1.0,1.0,0.0,2
+"MEIJI CO., LTD.",MEIJI HOLDINGS CO.LTD,3M0.DU,DUS,Germany,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,24,1.0,1.0,1.0,0.0,4
+Illinois Tool Works Inc.,Illinois Tool Works Inc.,ITW,NYQ,USA,Diversified Machinery,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,24,1.0,1.0,1.0,0.0,1
+SIKA TECHNOLOGY AG,Sika AG,SKFOF,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,24,1.0,1.0,1.0,0.0,4
+Intel Corporation,Intel Corporation,INTC,NMS,USA,Semiconductor - Broad Line,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,24,1.0,1.0,1.0,0.0,9
+H. Lundbeck A/S,H. Lundbeck A/S,LUN.CO,CPH,Denmark,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,23,1.0,1.0,1.0,0.0,4
+Husqvarna AB,Husqvarna AB (publ),HUSQ-B.ST,STO,Sweden,Machine Tools & Accessories,other,other,False,True,fuzzy,0.9986815415821501,0.9986815415821501,0.8275862068965517,0.9411764705882353,0.7058823529411764,0.6666666666666666,23,0.9986815415821501,0.9986815415821501,0.9986815415821501,0.0,7
+"EXELIXIS, INC.","Exelixis, Inc.",EXEL,NMS,USA,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,23,1.0,1.0,1.0,0.0,1
+"Ube Industries, Ltd.","Ube Industries, Ltd.",UBEOY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,23,1.0,1.0,1.0,0.0,3
+Intelligent Energy Limited,Intelligent Energy Holdings Plc,ITNRF,PNK,USA,,energy,energy,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,23,1.0,1.0,1.0,0.0,2
+TAKAZONO TECHNOLOGY INCORPORATED,"Takano Co.,Ltd.",TDF.F,FRA,France,,other,other,False,False,fuzzy,0.8595238095238096,0.8595238095238096,0.8571428571428571,0.9166666666666667,0.75,0.0,23,0.8595238095238096,0.8595238095238096,0.8595238095238096,0.0,1
+"CURNA, INC.",CURA TECHNOLOGIES LTD.,CURATECH.BO,BSE,India,,other,technology,False,False,fuzzy,0.896888888888889,0.896888888888889,0.8888888888888888,0.9533333333333333,0.8,0.0,22,0.896888888888889,0.896888888888889,0.896888888888889,0.0,1
+KRAFT FOODS GLOBAL BRANDS LLC,"Kraft Foods Group, Inc.",KRFT,,,,consumer,consumer,True,True,exact,1.0,1.04455938697318,0.7586206896551724,0.9222222222222222,0.6111111111111112,0.6666666666666666,22,1.0,1.0,1.0,0.0,0
+Oiles Corporation,Oilex Ltd,OEX.AX,ASX,Australia,Independent Oil & Gas,energy,energy,True,False,fuzzy,0.9480000000000002,0.9480000000000002,0.8,0.92,0.8,0.0,22,0.9480000000000002,0.9480000000000002,0.9480000000000002,0.0,3
+Saint-Gobain Isover,SAINT-GOBAIN,SGOB-U.TI,TLO,Italy,,technology,technology,True,True,exact,1.0,1.0565195246179966,0.7741935483870968,0.9263157894736842,0.631578947368421,0.6666666666666666,22,1.0,1.0,1.0,0.0,0
+Nokia Corporation,Nokia Corporation,NOK,NYQ,USA,Communication Equipment,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,22,1.0,1.0,1.0,0.0,15
+Vestas Wind Systems A/S,Vestas Wind Systems A/S,VWS.CO,CPH,Denmark,Diversified Machinery,energy,industrial,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,22,1.0,1.0,1.0,0.0,8
+Kabushiki Kaisha Toshiba,Toshiba Corporation,TSE1.F,FRA,France,Diversified Machinery,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,22,0.984343434343434,0.971887227947125,0.9967996407397429,0.020612826511854417,12
+"ATYR PHARMA, INC.","aTyr Pharma, Inc.",LIFE,NMS,USA,Biotechnology,healthcare,technology,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,22,1.0,1.0,1.0,0.0,0
+ZOETIS LLC,Zoetis Inc.,ZTS,NYQ,USA,Drugs - Generic,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,22,1.0,1.0,1.0,0.0,1
+"Gilead Sciences, Inc.","Gilead Sciences, Inc.",GILD,NMS,USA,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,22,1.0,1.0,1.0,0.0,4
+Eaton Corporation,Eaton Corporation plc,ETN,NYQ,USA,Diversified Machinery,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,22,1.0,1.0,1.0,0.0,1
+Telefonaktiebolaget LM Ericsson (publ),Telefonaktiebolaget LM Ericsson (publ),ERCA.DE,GER,Germany,Communication Equipment,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,22,1.0,1.0,1.0,0.0,14
+"HANMI SCIENCE CO., LTD.","Hanmi Science Co., Ltd.",008930.KS,KSC,South Korea,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,22,1.0,1.0,1.0,0.0,0
+"DIRTT ENVIRONMENTAL SOLUTIONS, LTD.",DIRTT Environmental Solutions Ltd.,DRT.TO,TOR,Canada,General Contractors,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,22,1.0,1.0,1.0,0.0,2
+Solvay SA,Solvay SA,SOLB.BR,BRU,Belgium,Chemicals - Major Diversified,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,21,1.0,1.0,1.0,0.0,4
+"Mitsubishi Rayon Co., Ltd.",Mitsubishi Corporation,MBI.F,FRA,France,,other,other,False,True,fuzzy,0.9526923076923078,0.9526923076923078,0.7692307692307693,0.925,0.625,0.5,21,0.9526923076923078,0.9526923076923078,0.9526923076923078,0.0,5
+International Business Machines Corporation,International Business Machines Corporation,IBM,NYQ,USA,Information Technology Services,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,21,1.0,1.0,1.0,0.0,10
+Saipem S.p.A.,Saipem S.p.A.,SPE1.F,FRA,France,,technology,technology,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,21,1.0,1.0,1.0,0.0,6
+Isis Innovation Limited,Innovation Group plc,TIG.L,LSE,United Kingdom,,other,other,False,True,fuzzy,0.9273333333333335,0.9273333333333335,0.8,0.8099999999999998,0.6666666666666667,0.5,21,0.9273333333333335,0.9273333333333335,0.9273333333333335,0.0,1
+Innospec Limited,Innospec Inc.,OCT.F,FRA,France,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,21,1.0,1.0,1.0,0.0,1
+"MEGMILK SNOW BRAND CO., LTD.","Megmilk Snow Brand Co., Ltd.",6MG.F,FRA,France,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,21,1.0,1.0,1.0,0.0,0
+Kaneka Corporation,Kaneka Corporation,KKA.F,FRA,France,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,20,1.0,1.0,1.0,0.0,2
+Nippon Kayaku Kabushiki Kaisha,NIPPON KAYAKU,NP7.BE,BER,Germany,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,20,1.0,1.0,1.0,0.0,3
+DOLBY INTERNATIONAL AB,"Dolby Laboratories, Inc.",DLB,NYQ,USA,Diversified Electronics,other,other,False,True,fuzzy,0.9526923076923078,0.9526923076923078,0.7692307692307693,0.925,0.625,0.5,20,0.9526923076923078,0.9526923076923078,0.9526923076923078,0.0,1
+"Air Products and Chemicals, Inc.","Air Products and Chemicals, Inc.",APD,NYQ,USA,Chemicals - Major Diversified,technology,materials,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,20,1.0,1.0,1.0,0.0,1
+BASF Corporation,BASF,BASF.TI,TLO,Italy,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,20,1.0,1.0,1.0,0.0,0
+Total S.A.,TOTAL S.A.,TOT.MI,MIL,Italy,Major Integrated Oil & Gas,other,energy,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,20,1.0,1.0,1.0,0.0,10
+De la Rue International Limited,De La Rue plc,DLAR.L,LSE,United Kingdom,Business Services,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,20,1.0,1.0,1.0,0.0,3
+SAAB AB,Saab AB (publ),SAAB-B.ST,STO,Sweden,Aerospace/Defense - Major Diversified,other,industrial,False,True,fuzzy,0.9280701754385966,0.9280701754385966,0.7368421052631579,0.9166666666666667,0.5833333333333333,0.6666666666666666,19,0.8937343358395994,0.8807226413178555,0.9067460303613433,0.02253564583809609,13
+"ISIS Pharmaceuticals, Inc.","Isis Pharmaceuticals, Inc.",ISIS,NMS,USA,,healthcare,healthcare,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,19,1.0,1.0,1.0,0.0,0
+FUJITSU LIMITED,Fujitsu Limited,FJTSY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,19,1.0,1.0,1.0,0.0,6
+"CARGILL, INCORPORATED",Carillion plc,CLLN.L,LSE,United Kingdom,General Contractors,automotive,automotive,True,False,fuzzy,0.8666666666666668,0.8666666666666668,0.75,0.888888888888889,0.5555555555555556,0.0,19,0.8666666666666668,0.8666666666666668,0.8666666666666668,0.0,3
+Bombardier Inc.,Bombardier Inc.,BBD-A.TO,TOR,Canada,Aerospace/Defense - Major Diversified,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,19,1.0,1.0,1.0,0.0,12
+Celgene Corporation,Celgene Corporation,CELG,NMS,USA,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,19,1.0,1.0,1.0,0.0,5
+MALLINCKRODT LLC,"MALLINCKRODT PLC DL -,20",MCD.BE,BER,Germany,,other,other,False,True,fuzzy,0.9766666666666667,0.9766666666666667,0.8,0.9333333333333333,0.6666666666666667,0.3333333333333333,19,0.9665930956423316,0.8385962397801408,1.0,0.01424618076414324,1
+Technip France,Technip SA,THP.DE,FRA,France,,technology,technology,True,True,fuzzy,0.9766666666666667,0.9766666666666667,0.6666666666666666,0.9,0.5,0.5,19,0.9766666666666668,0.9766666666666667,0.9766666666666669,1.1702778228589004e-16,9
+"AGIOS PHARMACEUTICALS, INC.","Agios Pharmaceuticals, Inc.",AGIO,NMS,USA,Biotechnology,healthcare,technology,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,18,1.0,1.0,1.0,0.0,2
+FLUOR TECHNOLOGIES CORPORATION,Fluor Corporation,FLR,NYQ,USA,Heavy Construction,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,18,1.0,1.0,1.0,0.0,2
+"SEATTLE GENETICS, INC.","Seattle Genetics, Inc.",SGEN,NMS,USA,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,18,1.0,1.0,1.0,0.0,1
+"NGK Spark Plug Co., Ltd.","NGK Spark Plug Co., Ltd.",NGK.F,FRA,France,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,18,1.0,1.0,1.0,0.0,3
+"Taiho Pharmaceutical Co., Ltd.",TAHO Pharmaceuticals Ltd.,6467.TWO,TWO,Taiwan,,technology,healthcare,False,False,fuzzy,0.9018666666666667,0.9018666666666667,0.95,0.9733333333333334,0.9,0.0,18,0.9018666666666667,0.9018666666666667,0.9018666666666667,0.0,0
+PIRAMAL ENTERPRISES LIMITED,Piramal Enterprises Limited,PEL.NS,NSI,India,Drug Manufacturers - Major,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,18,1.0,1.0,1.0,0.0,1
+Teijin Limited,TEIJIN LTD,TIJ.BE,BER,Germany,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,18,1.0,1.0,1.0,0.0,4
+Total SA,Totally plc,TLY.L,LSE,United Kingdom,Healthcare Information Services,other,healthcare,False,True,exact,1.0,1.0033333333333334,0.8333333333333334,0.9428571428571428,0.7142857142857143,0.0,18,1.0,1.0,1.0,0.0,2
+MORPHO,Morphosys AG,MOR.DE,GER,Germany,Biotechnology,other,technology,False,True,fuzzy,0.9766666666666667,0.9766666666666667,0.8,0.9333333333333333,0.6666666666666667,0.0,18,0.9766666666666667,0.9766666666666667,0.9766666666666667,0.0,5
+"ZAFGEN, INC.","Zafgen, Inc.",ZFGN,NMS,USA,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,18,1.0,1.0,1.0,0.0,1
+Herakles,Heracles SA,ALHER.PA,PAR,France,,other,other,False,False,fuzzy,0.905,0.905,0.875,0.95,0.875,0.0,18,0.905,0.905,0.905,0.0,0
+Nortel Networks Limited,"Northport Network Systems, Inc.",NNWS,PNK,USA,,telecommunications,telecommunications,True,False,fuzzy,0.8698823529411764,0.8698823529411764,0.75,0.8511764705882353,0.6470588235294117,0.0,18,0.8698823529411764,0.8698823529411764,0.8698823529411764,0.0,0
+ABB TECHNOLOGY LTD,ABB Ltd,ABB,NYQ,USA,Diversified Machinery,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,18,0.9975213675213676,0.9921208912769027,1.0,0.008936836494739753,12
+PFIZER LIMITED,Pfizer Inc.,PFE,NYQ,USA,Drug Manufacturers - Major,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,18,1.0,1.0,1.0,0.0,12
+"EPIZYME, INC.","Epizyme, Inc.",EPZM,NMS,USA,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,18,1.0,1.0,1.0,0.0,1
+RECKITT BENCKISER LLC,Reckitt Benckiser Group plc,RBGLY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,18,0.9994541910331384,0.998195553298524,1.0,0.0016374269005848079,8
+Nitto Denko Corporation,Nitto Denko Corporation,NDEKY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,17,1.0,1.0,1.0,0.0,4
+"Mars, Incorporated",Mears Group plc,MER.L,LSE,United Kingdom,Business Services,other,other,False,False,fuzzy,0.8915555555555555,0.8915555555555555,0.8888888888888888,0.94,0.8,0.0,17,0.8915555555555555,0.8915555555555555,0.8915555555555555,0.0,1
+SMA SOLAR TECHNOLOGY AG,SMA Solar Technology AG,S92.DE,GER,Germany,Diversified Utilities,energy,technology,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,17,1.0,1.0,1.0,0.0,4
+EVOGENE LTD.,Evogene Ltd.,EVGN,NGM,USA,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,17,1.0,1.0,1.0,0.0,1
+BAYER CROPSCIENCE NV,BAYER CROPSCIENCE LTD.,BAYERCROP.BO,BSE,India,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,17,1.0,1.0,1.0,0.0,1
+"Mitsui Chemicals, Inc.","Mitsui Chemicals, Inc.",MSI.F,FRA,France,,materials,materials,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,17,0.9841979949874686,0.9659782505357615,1.0,0.023703007518797,8
+"Hitachi Chemical Company, Ltd.","Hitachi Chemical Company, Ltd.",HCHMY,PNK,USA,,materials,materials,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,17,1.0,1.0,1.0,0.0,3
+XYLEM IP HOLDINGS LLC,Xylem Inc.,XYL,NYQ,USA,Diversified Machinery,other,industrial,False,True,fuzzy,0.9526923076923078,0.9526923076923078,0.7692307692307693,0.925,0.625,0.5,17,0.9526923076923078,0.9526923076923078,0.9526923076923078,0.0,1
+"Sekisui Chemical Co., Ltd.",SEKISUI CHEM.,SUI.BE,BER,Germany,,materials,other,False,True,exact,1.0,1.022857142857143,0.8571428571428571,0.95,0.75,0.3333333333333333,17,1.0,1.0,1.0,0.0,4
+"Santen Pharmaceutical Co., Ltd.","Santen Pharmaceutical Co., Ltd.",SNPHY,PNK,USA,,healthcare,healthcare,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,17,1.0,1.0,1.0,0.0,2
+"Nisshin Steel Co., Ltd.","Nisshin Steel Co., Ltd.",4NI.F,FRA,France,,materials,materials,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,16,1.0,1.0,1.0,0.0,1
+Monsanto Technology LLC,Monsanto Company,MON,NYQ,USA,Agricultural Chemicals,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,16,0.9953333333333333,0.9823765895090769,1.0,0.01043498389499901,4
+"SK Chemicals Co., Ltd.","SK Chemicals Co., Ltd.",006125.KS,KSC,South Korea,,materials,materials,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,16,1.0,1.0,1.0,0.0,1
+ASTEX THERAPEUTICS LIMITED,Antibe Therapeutics Inc.,ATBPF,PNK,USA,,healthcare,healthcare,True,False,fuzzy,0.9715599810336654,0.9715599810336654,0.8648648648648649,0.9192982456140351,0.7894736842105263,0.3333333333333333,16,0.9618581761770617,0.947463827212817,0.9762525251413064,0.01371627607927577,5
+CORNING CABLE SYSTEMS LLC,Corning Incorporated,GLW,NYQ,USA,Diversified Electronics,other,other,False,True,fuzzy,0.9007692307692309,0.9007692307692309,0.7,0.9076923076923077,0.5384615384615384,0.5,16,0.9007692307692309,0.9007692307692309,0.9007692307692309,0.0,6
+Georgia Tech Research Corporation,Georgia Power Co.,GAPWP,PNK,USA,,other,utilities,False,True,fuzzy,0.9007692307692309,0.9007692307692309,0.7,0.9076923076923077,0.5384615384615384,0.5,16,0.9007692307692309,0.9007692307692309,0.9007692307692309,0.0,1
+Qinetiq Limited,QinetiQ Group plc,QQ.L,LSE,United Kingdom,Aerospace/Defense - Major Diversified,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,16,1.0,1.0,1.0,0.0,3
+Huntsman International LLC,Huntsman Corporation,HUN,NYQ,USA,Chemicals - Major Diversified,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,16,1.0,1.0,1.0,0.0,1
+Kureha Corporation,KUREHA CORP,KUREF,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,16,0.9883333333333333,0.966897160637897,1.0,0.013471506281091259,3
+"GOLFZON CO., LTD.",GOLFZON,215000.KQ,KOE,South Korea,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,16,1.0,1.0,1.0,0.0,0
+Cadila Healthcare Limited,Cadila Healthcare Limited,CADILAHC.NS,NSI,India,Drugs - Generic,healthcare,healthcare,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,16,1.0,1.0,1.0,0.0,1
+ABBVIE INC.,AbbVie Inc.,ABBV,NYQ,USA,Drug Manufacturers - Major,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,16,1.0,1.0,1.0,0.0,7
+"General Mills, Inc.","General Mills, Inc.",GIS,NYQ,USA,Processed & Packaged Goods,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,16,1.0,1.0,1.0,0.0,3
+CHINA PETROLEUM & CHEMICAL CORPORATION,China Petroleum & Chemical Corporation,SNP,NYQ,USA,Major Integrated Oil & Gas,energy,energy,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,16,1.0,1.0,1.0,0.0,7
+"ARDEA BIOSCIENCES, INC.","Arcadia Biosciences, Inc.",RKDA,NCM,USA,Agricultural Chemicals,other,materials,False,False,fuzzy,0.8675266597867217,0.8675266597867217,0.8888888888888888,0.858875128998968,0.8421052631578947,0.3333333333333333,16,0.8675266597867217,0.8675266597867217,0.8675266597867217,0.0,1
+ABB Oy,ABB Ltd,ABB,NYQ,USA,Diversified Machinery,other,industrial,False,True,fuzzy,0.8700000000000001,0.8700000000000001,0.6666666666666666,0.8833333333333334,0.5,0.5,16,0.87,0.8699999999999999,0.8700000000000001,1.1644117316690923e-16,10
+BLUE SOLUTIONS,BLUE SOLUTIONS,18B.BE,BER,Germany,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,15,1.0,1.0,1.0,0.0,1
+Statoil ASA,Statoil ASA,STO,NYQ,USA,Major Integrated Oil & Gas,energy,energy,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,15,1.0,1.0,1.0,0.0,10
+Stora Enso OYJ,Stora Enso Oyj,SEOAY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,15,1.0,1.0,1.0,0.0,11
+"Nippon Gas Co., Ltd.","Nippon Gas Co., Ltd.",NG0.F,FRA,France,,energy,energy,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,15,1.0,1.0,1.0,0.0,0
+"Sumitomo Bakelite Co., Ltd.",Sumitomo Bakelite Company Limited,SZ8.MU,MUN,Germany,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,15,1.0,1.0,1.0,0.0,0
+FUJIFILM Corporation,FUJIFILM Holdings Corporation,FUJIY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,15,1.0,1.0,1.0,0.0,4
+"Epizyme, Inc.","Epizyme, Inc.",EPZM,NMS,USA,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,15,1.0,1.0,1.0,0.0,1
+Andritz Oy,Andritz AG,ADRZY,PNK,USA,,other,other,False,True,fuzzy,0.9954117647058824,0.9954117647058824,0.8235294117647058,0.9400000000000001,0.7,0.5,15,0.9954117647058822,0.9954117647058821,0.9954117647058823,2.3288234633381846e-16,10
+"Hitachi, Ltd.","Hitachi, Ltd.",HIA1.F,FRA,France,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,15,0.9941847041847042,0.9799551879363431,1.0,0.015385826527547325,6
+NEKTAR THERAPEUTICS,Nektar Therapeutics,NKTR,NMS,USA,Biotechnology,healthcare,technology,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,15,1.0,1.0,1.0,0.0,2
+"MERRIMACK PHARMACEUTICALS, INC.","Merrimack Pharmaceuticals, Inc.",MACK,NGM,USA,Biotechnology,healthcare,technology,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,15,1.0,1.0,1.0,0.0,1
+"Idemitsu Kosan Co., Ltd.",Idemitsu Kosan Co. Limited,IDKOF,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,15,1.0,1.0,1.0,0.0,3
+MOOG INC.,Moog Inc.,MOG-A,NYQ,USA,Aerospace/Defense Products & Services,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,15,1.0,1.0,1.0,0.0,2
+UNICHARM CORPORATION,UNICHARM CORP.,UN4.BE,BER,Germany,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,15,1.0,1.0,1.0,0.0,3
+"KYOWA HAKKO KIRIN CO., LTD.","Kyowa Hakko Kirin Co., Ltd.",KY4.F,FRA,France,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,15,1.0,1.0,1.0,0.0,3
+"Morinaga Milk Industry Co., Ltd.","Morinaga Milk Industry Co., Ltd.",MO8.F,FRA,France,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,14,1.0,1.0,1.0,0.0,0
+Basilea Pharmaceutica AG,Basilea Pharmaceutica AG,BSLN.SW,EBS,Switzerland,,healthcare,healthcare,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,14,1.0,1.0,1.0,0.0,3
+"Kimberly-Clark Worldwide, Inc.",Kimberly-Clark Corporation,KMB,NYQ,USA,Personal Products,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,14,1.0,1.0,1.0,0.0,5
+Morphosys AG,Morphosys AG,MOR.DE,GER,Germany,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,14,1.0,1.0,1.0,0.0,5
+"Hanmi Pharm. Co., Ltd.","Hanmi Pharm. Co., Ltd.",128940.KS,KSC,South Korea,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,14,1.0,1.0,1.0,0.0,0
+"AptarGroup, Inc.","AptarGroup, Inc.",ATR,NYQ,USA,Packaging & Containers,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,14,1.0,1.0,1.0,0.0,1
+DIGNITY HEALTH,Dignity plc,DTY.L,LSE,United Kingdom,,healthcare,other,False,True,fuzzy,0.8766666666666667,0.8766666666666667,0.6666666666666666,0.9,0.5,0.5,14,0.8766666666666667,0.8766666666666667,0.8766666666666667,0.0,1
+Arkema Inc.,ARKEMA,AKEN.MX,MEX,Mexico,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,14,1.0,1.0,1.0,0.0,0
+DH Technologies Development Pte. Ltd.,Co-Tech Development Corporation,8358.TWO,TWO,Taiwan,,other,technology,False,True,exact,1.0,1.0334285714285714,0.88,0.9357142857142856,0.7857142857142857,0.0,14,1.0,1.0,1.0,0.0,0
+Johnson Matthey PLC,Johnson Matthey Plc,JMAT.L,LSE,United Kingdom,Specialty Chemicals,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,14,1.0,1.0,1.0,0.0,5
+NATIONAL OILWELL VARCO NORWAY AS,National Oilwell Varco Inc. Reg,NO8.SG,STU,Germany,,energy,energy,True,False,fuzzy,0.8661604774535808,0.8661604774535808,0.8275862068965517,0.9346153846153846,0.75,0.5,14,0.8661604774535808,0.8661604774535808,0.8661604774535808,0.0,0
+TRANSGENE SA,Transgene SA,TNG.PA,PAR,France,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,14,1.0,1.0,1.0,0.0,3
+TEGA INDUSTRIES LIMITED,Telpac Industries Inc,TLPC,PNK,USA,,other,other,False,False,fuzzy,0.8887712418300654,0.8887712418300654,0.875,0.9351633986928104,0.8235294117647058,0.0,14,0.8867948668415201,0.8616826416010999,0.9119070920819403,0.0027950163131357396,1
+"PTC THERAPEUTICS, INC.","PTC Therapeutics, Inc.",PTCT,NMS,USA,Biotechnology,healthcare,technology,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,14,1.0,1.0,1.0,0.0,2
+"Almirall, S.A.","Almirall, S.A.",ALM.MC,MCE,Spain,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,14,1.0,1.0,1.0,0.0,4
+"ARENA PHARMACEUTICALS, INC.","Arena Pharmaceuticals, Inc.",ARNA,NMS,USA,Biotechnology,healthcare,technology,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,14,1.0,1.0,1.0,0.0,2
+"FMC Technologies, Inc.",FMC Corporation,FMC,NYQ,USA,Chemicals - Major Diversified,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,14,1.0,1.0,1.0,0.0,2
+DOW TECHNOLOGY INVESTMENTS LLC,Dolat Investments Limited,DOLAT.BO,BSE,India,,financial,financial,True,False,fuzzy,0.9506760037348272,0.9506760037348272,0.875,0.8399253034547152,0.8235294117647058,0.3333333333333333,14,0.9270898324241976,0.6273991108027781,1.0,0.03335588335194745,1
+"FUTABA INDUSTRIAL CO., LTD.",FUTABA INDUSTRIAL,FBILF,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,14,1.0,1.0,1.0,0.0,0
+BAE Systems plc,BAE Systems plc,BAESY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,4
+"Shin-Etsu Chemical Co., Ltd.",SHIN-ETSU CHEM.,SEH.BE,BER,Germany,,materials,other,False,True,exact,1.0,1.037777777777778,0.875,0.9555555555555556,0.7777777777777778,0.5,13,1.0,1.0,1.0,0.0,6
+SAINT-GOBAIN ISOVER,SAINT-GOBAIN,SGOB-U.TI,TLO,Italy,,technology,technology,True,True,exact,1.0,1.0565195246179966,0.7741935483870968,0.9263157894736842,0.631578947368421,0.6666666666666666,13,1.0,1.0,1.0,0.0,0
+ABB OY,ABB Ltd,ABB,NYQ,USA,Diversified Machinery,other,industrial,False,True,fuzzy,0.8700000000000001,0.8700000000000001,0.6666666666666666,0.8833333333333334,0.5,0.5,13,0.87,0.8699999999999999,0.8700000000000001,1.1644117316690923e-16,10
+CERAVISION LIMITED,"CaerVision Global, Inc.",SUGO,PNK,USA,,other,other,False,False,fuzzy,0.908,0.908,0.9,0.97,0.8,0.0,13,0.908,0.908,0.908,0.0,0
+"NIPPON GAS CO., LTD.","Nippon Gas Co., Ltd.",NG0.F,FRA,France,,energy,energy,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,0
+MANNKIND CORPORATION,MannKind Corporation,MNKD,NGM,USA,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,3
+"Ono Pharmaceutical Co., Ltd.","Ono Pharmaceutical Co., Ltd.",ON4.MU,MUN,Germany,,healthcare,healthcare,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,2
+ConocoPhillips Company,ConocoPhillips,COP,NYQ,USA,Independent Oil & Gas,other,energy,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,6
+MASCOMA CORPORATION,Masco Corporation,MAS,NYQ,USA,General Building Materials,other,other,False,True,exact,1.0,1.0033333333333334,0.8333333333333334,0.9428571428571428,0.7142857142857143,0.0,13,1.0,1.0,1.0,0.0,2
+"PPG Industries Ohio, Inc.","PPG Industries, Inc.",PPG,NYQ,USA,Specialty Chemicals,other,materials,False,True,exact,1.0,1.0157097288676236,0.8484848484848485,0.9473684210526316,0.736842105263158,0.5,13,1.0,1.0,1.0,0.0,2
+"POET RESEARCH, INC.",POET Technologies Inc.,POETF,PNK,USA,,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,2
+RANBAXY LABORATORIES LIMITED,Ranbaxy Laboratories Ltd.,RANBAXY.NS,NSI,India,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,13,0.9796464646464647,0.9422491590349459,1.0,0.02350223823064839,3
+SIG Technology AG,SIG plc,SHI.L,LSE,United Kingdom,Industrial Equipment Wholesale,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,4
+NV BEKAERT SA,NV BEKAERT SA,BEKSF,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,4
+ABLYNX NV,Ablynx NV,ABLX.BR,BRU,Belgium,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,4
+SYNTA PHARMACEUTICALS CORP.,Synta Pharmaceuticals Corp.,SNTA,NCM,USA,,healthcare,healthcare,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,1
+"Nippon Paper Industries Co., Ltd.","Nippon Paper Industries Co., Ltd.",9NI.F,FRA,France,,materials,materials,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,0
+CIPLA Limited,Cipla Limited,CIPLA.NS,NSI,India,Drug Manufacturers - Major,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,2
+"Aerovironment, Inc.","AeroVironment, Inc.",AVAV,NMS,USA,Aerospace/Defense Products & Services,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,1
+Societe BIC,Société BIC SA,BB.PA,PAR,France,Personal Products,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,4
+Iogen Energy Corporation,Iona Energy Inc.,IONAF,PNK,USA,,energy,energy,True,False,fuzzy,0.949018006148441,0.949018006148441,0.8695652173913043,0.877979797979798,0.75,0.0,13,0.9363478753130927,0.9283928285456511,0.9443029220805343,0.01112038857925173,9
+Sika Technology AG,Sika AG,SKFOF,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,4
+"ITO EN, LTD.","Ito En, Ltd.",ITOEF,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,13,1.0,1.0,1.0,0.0,1
+Array BioPharma Inc.,"ARCA biopharma, Inc.",HQ1N.F,FRA,France,,healthcare,healthcare,True,False,exact,1.0,1.010112753147236,0.896551724137931,0.9453968253968253,0.8666666666666667,0.3333333333333333,12,1.0,1.0,1.0,0.0,3
+"Mochida Pharmaceutical Co., Ltd.","Mochida Pharmaceutical Co., Ltd.",MFY.F,FRA,France,,healthcare,healthcare,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,12,1.0,1.0,1.0,0.0,0
+ORICA INTERNATIONAL PTE LTD,Orica Limited,ORI.AX,ASX,Australia,Specialty Chemicals,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,12,1.0,1.0,1.0,0.0,4
+GEOX S.P.A.,Geox S.p.A.,GXSBY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,12,1.0,1.0,1.0,0.0,5
+Intertechnique,"Intertech Solutions , Inc.",ITEC,PNK,USA,Business Services,technology,technology,True,True,exact,1.0,1.0630434782608695,0.782608695652174,0.9285714285714286,0.6428571428571428,0.0,12,1.0,1.0,1.0,0.0,0
+ENDOSPAN LTD.,Endo International plc,ENL.TO,TOR,Canada,,other,other,False,True,fuzzy,0.8766666666666667,0.8766666666666667,0.6666666666666666,0.9,0.5,0.0,12,0.8766666666666666,0.8766666666666663,0.8766666666666669,1.3597399555105182e-16,2
+Petrowell Limited,Petro Welt Technologies AG,O2C.DE,GER,Germany,Oil & Gas Equipment & Services,other,industrial,False,False,fuzzy,0.871953216374269,0.871953216374269,0.8421052631578947,0.9377777777777778,0.8,0.0,12,0.871953216374269,0.871953216374269,0.871953216374269,0.0,3
+Sanden Corporation,Sanden Holdings Corporation,SOE1.F,FRA,France,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,12,1.0,1.0,1.0,0.0,0
+LANXESS INTERNATIONAL SA,LANXESS AG,LXS.MU,MUN,Germany,Specialty Chemicals,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,12,1.0,1.0,1.0,0.0,4
+ABB Technology Ltd,ABB Ltd,ABB,NYQ,USA,Diversified Machinery,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,12,0.9975213675213676,0.9921208912769027,1.0,0.008936836494739753,12
+"SMARTCELLS, INC.",Smart Technologies Inc.,SMA.TO,TOR,Canada,,other,technology,False,True,fuzzy,0.8766666666666667,0.8766666666666667,0.6666666666666666,0.9,0.5,0.0,12,0.8766666666666666,0.8766666666666663,0.8766666666666669,1.3597399555105182e-16,2
+"NIPPON SHARYO, LTD.","Nippon Sharyo, Ltd.",NPPSF,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,12,1.0,1.0,1.0,0.0,0
+KINGSPAN HOLDINGS (IRL) LIMITED,Kingspan Group plc,KGP.L,LSE,United Kingdom,General Building Materials,other,other,False,True,fuzzy,0.9766666666666667,0.9766666666666667,0.8,0.9333333333333333,0.6666666666666667,0.5,12,0.9766666666666668,0.9766666666666667,0.9766666666666669,1.2412670766236366e-16,4
+XEROS LIMITED,Xero Limited,XRO.AX,ASX,Australia,Business Software & Services,other,technology,False,True,exact,1.0,1.0495555555555556,0.8888888888888888,0.96,0.8,0.0,11,1.0,1.0,1.0,0.0,4
+PETROLEUM TECHNOLOGY COMPANY AS,Global Petroleum Limited,GBP.AX,ASX,Australia,Independent Oil & Gas,energy,energy,True,True,exact,1.0,1.1228571428571428,0.8571428571428571,0.95,0.75,0.5,11,1.0,1.0,1.0,0.0,5
+BAYER CROPSCIENCE LP,BAYER CROPSCIENCE LTD.,BAYERCROP.BO,BSE,India,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,1
+MITSUBISHI ELECTRIC CORPORATION,Mitsubishi Electric Corporation,MIELY,PNK,USA,,utilities,utilities,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,11,0.9860988582567531,0.9727831541760337,0.9994145623374726,0.017323087861081297,8
+LATCHWAYS PLC,Latchways plc,LCWYF,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,0
+SUMITOMO ELECTRIC HARDMETAL CORP.,"Sumitomo Electric Industries, Ltd.",SMTOY,PNK,USA,,utilities,utilities,True,False,fuzzy,0.8572113997113996,0.8572113997113996,0.7272727272727273,0.9019240019240019,0.6785714285714286,0.6666666666666666,11,0.8572113997113996,0.8572113997113996,0.8572113997113996,0.0,2
+KT Corporation,KT Corporation,KT,NYQ,USA,Telecom Services - Foreign,other,telecommunications,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,0.982098765432099,0.9690447817611516,0.9951527491030463,0.016982602249052313,8
+MEDIATEK INC.,MediaTek Inc.,2454.TW,TAI,Taiwan,Semiconductor - Broad Line,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,0.976346153846154,0.6757955418113188,1.0,0.0334515900330558,1
+"PPG INDUSTRIES OHIO, INC.","PPG Industries, Inc.",PPG,NYQ,USA,Specialty Chemicals,other,materials,False,True,exact,1.0,1.0157097288676236,0.8484848484848485,0.9473684210526316,0.736842105263158,0.5,11,1.0,1.0,1.0,0.0,2
+MITSUBISHI TANABE PHARMA CORPORATION,MITSUBISHI TANABE PHARMA,TAY.BE,BER,Germany,,healthcare,healthcare,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,3
+Tokuyama Corporation,TOKUYAMA CORP.,TBT.MU,MUN,Germany,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,4
+"IRONWOOD PHARMACEUTICALS, INC.","Ironwood Pharmaceuticals, Inc.",IRWD,NMS,USA,Drugs - Generic,healthcare,healthcare,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,1
+"Alnylam Pharmaceuticals, Inc.","Alnylam Pharmaceuticals, Inc.",ALNY,NMS,USA,Biotechnology,healthcare,technology,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,11,0.9894925925925926,0.9442828674290816,1.0,0.018199363485455207,2
+Hutchinson,Hutchinson Technology Inc.,HTCH,NMS,USA,,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,0.976346153846154,0.9328849026120003,1.0,0.027313108888586058,3
+"TARGACEPT, INC.","Targacept, Inc.",TRGT,NMS,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,0
+Andritz AG,Andritz AG,ADRZY,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,10
+Interroll Holding AG,Interroll Holding AG,INRN.SW,EBS,Switzerland,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,2
+Ascendis Pharma A/S,Ascendis Pharma A/S,ASND,NMS,USA,Biotechnology,healthcare,technology,False,True,exact,1.0,1.0999999999999999,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,1
+Uni-Charm Corporation,UNICHARM CORP.,UN4.BE,BER,Germany,,other,other,False,False,fuzzy,0.9438779956427016,0.9438779956427016,0.9411764705882353,0.9740740740740741,0.8888888888888888,0.0,11,0.9438779956427016,0.9438779956427016,0.9438779956427016,0.0,3
+Posco,POSCO,005490.KS,KSC,South Korea,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,4
+"CODEXIS, INC.","Codexis, Inc.",CDXS,NMS,USA,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,1
+Lonza LTD,Lonza Group Ltd,LO3.DE,GER,Germany,Medical Laboratories & Research,other,healthcare,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,6
+Zealand Pharma A/S,Zealand Pharma A/S,22Z.F,FRA,France,,healthcare,healthcare,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,3
+"Ajinomoto Co., Inc.",AJINOMOTO,AJI.MU,MUN,Germany,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,5
+SMART HUB PTE. LTD.,Smart Technologies Inc.,SMA.TO,TOR,Canada,,other,technology,False,True,fuzzy,0.9112698412698413,0.9112698412698413,0.7142857142857143,0.9111111111111111,0.5555555555555556,0.5,11,0.9112698412698413,0.9112698412698413,0.9112698412698413,0.0,2
+"ENDOCYTE, INC.","Endocyte, Inc.",ECYT,NMS,USA,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,1
+ARCELORMITTAL,ArcelorMittal,MT,NYQ,USA,Steel & Iron,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,13
+BP Chemicals Limited,Bodal Chemicals Limited,BODALCHEM.NS,NSI,India,Specialty Chemicals,materials,materials,True,False,fuzzy,0.886956228956229,0.886956228956229,0.8148148148148148,0.7859090909090909,0.7333333333333334,0.3333333333333333,11,0.8818236331569665,0.8597398558308428,0.9039074104830903,0.008889916699037253,2
+BAVARIAN NORDIC A/S,Bavarian Nordic A/S,BVNKF,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,4
+"Kobe Steel, Ltd.","Kobe Steel, Ltd.",KBSTF,PNK,USA,,materials,materials,True,True,exact,1.0,1.25,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,5
+Avery Dennison Corporation,Avery Dennison Corporation,AVY,NYQ,USA,Business Equipment,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,11,1.0,1.0,1.0,0.0,1
+"ILLUMINA, INC.","Illumina, Inc.",ILMN,NMS,USA,Biotechnology,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,10,1.0,1.0,1.0,0.0,2
+E. I. Du Pont de Nemours and Company,E. I. du Pont de Nemours and Company,DD,NYQ,USA,Agricultural Chemicals,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,10,1.0,1.0,1.0,0.0,9
+Cabot Corporation,Cabot Corporation,CBT,NYQ,USA,Specialty Chemicals,other,materials,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,10,1.0,1.0,1.0,0.0,1
+Lintec Corporation,LINTEC Corporation,LNTEF,PNK,USA,,other,other,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,10,1.0,1.0,1.0,0.0,0
+SHAWCOR LTD.,ShawCor Ltd.,SCL.TO,TOR,Canada,Oil & Gas Equipment & Services,other,industrial,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,10,1.0,1.0,1.0,0.0,2
+"CSP TECHNOLOGIES, INC.",CSP Inc.,CSPI,NGM,USA,Information Technology Services,other,technology,False,True,exact,1.0,1.15,1.0,1.0,1.0,1.0,10,0.9785185185185187,0.9323048410514122,1.0,0.018603508673887836,2
+MASCO BATH CORPORATION,Masco Corporation,MAS,NYQ,USA,General Building Materials,other,other,False,True,fuzzy,0.8766666666666667,0.8766666666666667,0.6666666666666666,0.9,0.5,0.5,10,0.8766666666666666,0.8766666666666663,0.8766666666666669,1.3597399555105182e-16,2
